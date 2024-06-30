@@ -17,7 +17,7 @@ Objectives:<br>
 
 Tools:<br>
 
-SQL Workbench: For data cleaning, integration, querying, and visualization (if supported).<br>
+SQL Workbench: For data cleaning, integration, querying, and visualization (if supported).<br><br>
 Deliverables:<br>
 
 • Cleaned and standardized SQL dataset.<br>
